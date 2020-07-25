@@ -16,7 +16,7 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 #### Skills:
 - Front-End Development
 
-#### Languages:
+#### Skills/Languages:
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
 - JavaScript - ([Vue.js](https://vuejs.org/))
