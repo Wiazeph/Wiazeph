@@ -13,20 +13,22 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 ### Education:
 - [Anadolu University - (Managment Information Systems)](https://www.anadolu.edu.tr/en)
 
-#### Skills:
+### Skills:
 - Front-End Development
 
-#### Skills/Languages:
+### Skills/Languages:
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
 - JavaScript - ([Vue.js](https://vuejs.org/))
 - Python - ([Django](https://www.djangoproject.com/))
 - MySQL
 
-#### Tools i use:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
+
+### Tools i use:
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - MySQL Workbench
 
-### Visitors 💬
+### Visitors:
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femr3rden.emr3rden%2Freadme)
