@@ -7,7 +7,7 @@ I'm 19 years old. In the last years of secondary school, my interest in the worl
 I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98) as a trainee.
 
 ### On social networks:
-- [Linkedin](https://www.linkedin.com/in/emr3rden/)
+- [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 - [Twitter](https://www.twitter.com/emr3rden)
 
 ### Education:
