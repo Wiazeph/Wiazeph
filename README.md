@@ -20,6 +20,8 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
 - JavaScript - ([Vue.js](https://vuejs.org/))
+
+### Learning/Trying:
 - Python - ([Django](https://www.djangoproject.com/))
 - MySQL
 
