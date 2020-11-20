@@ -4,7 +4,7 @@
 
 I'm 19 years old. In the last years of secondary school, my interest in the world of informatics started. I have been learning since then.
 
-I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98) as a trainee.
+I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
 ### On social networks:
 - [Twitter](https://www.twitter.com/emr3rden)
