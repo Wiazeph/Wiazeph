@@ -10,8 +10,8 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - [Twitter](https://www.twitter.com/emr3rden)
 - [Instagram](https://www.instagram.com/emr3rden)
 - [Codepen](https://www.codepen.io/emr3rden)
-- [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 - [Dribbble](https://www.dribbble.com/emr3rden)
+- [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 
 ### Education:
 - [Anadolu University - (Managment Information Systems)](https://www.anadolu.edu.tr/en)
