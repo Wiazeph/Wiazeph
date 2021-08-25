@@ -15,9 +15,6 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 ### Education:
 - [Anadolu University - (Managment Information Systems)](https://www.anadolu.edu.tr/en)
 
-### Skills:
-- Front-End Development
-
 ### Skills/Languages-(Learning/Trying):
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
