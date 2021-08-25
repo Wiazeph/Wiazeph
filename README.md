@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm 20 years old. In the last years of secondary school, my interest in the world of informatics started. I have been learning since then.
+I'm 20 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I want to do the job i love and i am working to become a Front-End Developer. In this profession, i am open to learning and improving myself. I'm a person working to be a trained developer in the Front-End world.
 
 I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
