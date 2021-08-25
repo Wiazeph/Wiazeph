@@ -10,7 +10,6 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - [Twitter](https://www.twitter.com/emr3rden)
 - [Instagram](https://www.instagram.com/emr3rden)
 - [Codepen](https://www.codepen.io/emr3rden)
-- [Dribbble](https://www.dribbble.com/emr3rden)
 - [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 
 ### Education:
@@ -19,12 +18,10 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 ### Skills:
 - Front-End Development
 
-### Skills/Languages:
+### Skills/Languages-(Learning/Trying):
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
 - JavaScript - ([Vue.js](https://vuejs.org/))
-
-### Learning/Trying:
 - Python - ([Django](https://www.djangoproject.com/))
 - MySQL
 
