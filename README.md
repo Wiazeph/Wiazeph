@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm 20 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I want to do the job i love and i am working to become a Front-End Developer. In this profession, i am open to learning and improving myself. I'm a person working to be a trained developer in the Front-End world.
+Hi, I'm Emre, I'm 20 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I'm a person working to be an experienced developer in the Front-End world. I want to do the job I love and I am working to become a Front-End Developer. In this profession, I am open to learning and improving myself.
 
 I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
