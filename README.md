@@ -21,12 +21,15 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - JavaScript - ([Vue.js](https://vuejs.org/))
 - Python - ([Django](https://www.djangoproject.com/))
 - MySQL
+- Git
+- Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
 
 ### Tools i use:
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [VS Code](https://code.visualstudio.com/)
 - MySQL Workbench
 
 ### Visitors:
