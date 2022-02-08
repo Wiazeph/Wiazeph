@@ -2,20 +2,20 @@
 
 ### About me:
 
-Hi, I'm Emre, I'm 21 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I'm a person working to be an experienced developer in the Front-End world. I want to do the job I love and I am working to become a Front-End Developer. In this profession, I am open to learning and improving myself.
+Hi, I'm Emre, I'm 21 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I'm a person working to be an experienced developer in the Front-End world. In this profession, I'm open to learning and improving myself. I want to do the job I love and I'm working to become a "Front-End Developer".
 
 I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
-### On social networks:
+### On Social Networks:
+- [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 - [Twitter](https://www.twitter.com/emr3rden)
 - [Instagram](https://www.instagram.com/emr3rden)
 - [Codepen](https://www.codepen.io/emr3rden)
-- [LinkedIn](https://www.linkedin.com/in/emr3rden/)
 
 ### Education:
 - [Anadolu University - (Managment Information Systems)](https://www.anadolu.edu.tr/en)
 
-### Skills/Languages-(Learning/Trying):
+### Skills/Languages - (Learning/Developing):
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
 - JavaScript - ([Vue.js](https://vuejs.org/))
@@ -24,13 +24,13 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - Git
 - Linux
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
-
-### Tools i use:
+### Programs I Use:
+- [VS Code](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- [VS Code](https://code.visualstudio.com/)
 - MySQL Workbench
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
 
 ### Visitors:
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femr3rden.emr3rden%2Freadme)
