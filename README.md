@@ -12,9 +12,6 @@ I'm an open person to working, learning and improving myself in [Ankara](https:/
 - [Instagram](https://www.instagram.com/emr3rden)
 - [Codepen](https://www.codepen.io/emr3rden)
 
-### Education:
-- [Anadolu University - (Managment Information Systems)](https://www.anadolu.edu.tr/en)
-
 ### Skills/Languages - (Learning/Developing):
 - HTML
 - CSS - ([Bootstrap](https://getbootstrap.com/))
@@ -30,6 +27,13 @@ I'm an open person to working, learning and improving myself in [Ankara](https:/
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [SublimeText](https://www.sublimetext.com/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+### Extensions I Use:
+- [ColorZilla](https://colorzilla.com/)
+- [What Runs](https://whatruns.com/)
+- [Dimensions](https://felixniklas.com/dimensions/)
+- [VisBug](https://visbug.web.app/)
+- [Vue Devtools](https://devtools.vuejs.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
 
