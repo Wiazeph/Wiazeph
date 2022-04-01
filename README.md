@@ -4,7 +4,7 @@
 
 Hi, I'm Emre, I'm 21 years old. I live in Ankara/Turkey. I'm a person working to be an experienced developer in the Front-End world. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. In this profession, I'm open to learning and improving myself. I want to do the job I love and I'm working to become a "Front-End Developer".
 
-I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
+I'm an open person to working, learning and improving myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
 ### On Social Networks:
 - [LinkedIn](https://www.linkedin.com/in/emr3rden/)
