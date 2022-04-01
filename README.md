@@ -2,7 +2,7 @@
 
 ### About me:
 
-Hi, I'm Emre, I'm 21 years old. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. I'm a person working to be an experienced developer in the Front-End world. In this profession, I'm open to learning and improving myself. I want to do the job I love and I'm working to become a "Front-End Developer".
+Hi, I'm Emre, I'm 21 years old. I live in Ankara/Turkey. I'm a person working to be an experienced developer in the Front-End world. In the last years of secondary school, my interest in the world of informatics started. I've been learning since then. In this profession, I'm open to learning and improving myself. I want to do the job I love and I'm working to become a "Front-End Developer".
 
 I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/maps/cadu4sCBbzi4B6F98).
 
@@ -28,7 +28,8 @@ I'm an open person to work, learn and improve myself in [Ankara](https://goo.gl/
 - [VS Code](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- MySQL Workbench
+- [SublimeText](https://www.sublimetext.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
 
