@@ -1,4 +1,4 @@
-## <img align="top" width="25px" src="https://raw.githubusercontent.com/emr3rden/emr3rden/master/userlane.svg"/> Hi there, I'm Emre <img align="top" width="30px" src="https://raw.githubusercontent.com/emr3rden/emr3rden/master/userlane.svg"/>
+# <img align="top" width="25px" src="https://raw.githubusercontent.com/emr3rden/emr3rden/master/userlane.svg"/> Hi there, I'm Emre <img align="top" width="30px" src="https://raw.githubusercontent.com/emr3rden/emr3rden/master/userlane.svg"/>
 
 ### About me:
 
@@ -12,30 +12,37 @@ I'm an open person to working, learning and improving myself in [Ankara](https:/
 - [Instagram](https://www.instagram.com/emr3rden)
 - [Codepen](https://www.codepen.io/emr3rden)
 
-### Skills/Languages - (Learning/Developing):
+### Skills/Languages:
+
+#### - What I know:
+
 - HTML
-- CSS - ([Bootstrap](https://getbootstrap.com/))
-- JavaScript - ([Vue.js](https://vuejs.org/))
-- Python - ([Django](https://www.djangoproject.com/))
-- MySQL
-- Git
-- Linux
+- CSS + [SASS](https://sass-lang.com/) + [Bootstrap](https://getbootstrap.com/)
+- [Git](https://git-scm.com/)
+
+#### - What I'm learning:
+
+- JavaScript
+
+#### - I will also learn these:
+
+- Fetch/Ajax
+- [Vue.js](https://vuejs.org/) + [Nuxt.js](https://nuxtjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/) + [PostCSS](https://postcss.org/)
+
+#### - Technologies I used to know:
+- [Python](https://www.python.org/) + [Django](https://www.djangoproject.com/)
+- [MySQL](https://www.mysql.com/)
 
 ### Programs I Use:
 - [VS Code](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
 - [SublimeText](https://www.sublimetext.com/)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ### Extensions I Use:
 - [ColorZilla](https://colorzilla.com/)
 - [What Runs](https://whatruns.com/)
 - [Dimensions](https://felixniklas.com/dimensions/)
 - [VisBug](https://visbug.web.app/)
-- [Vue Devtools](https://devtools.vuejs.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
-
-### Visitors:
-![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femr3rden.emr3rden%2Freadme)
