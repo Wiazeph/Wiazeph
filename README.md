@@ -22,7 +22,7 @@ I'm an open person to working, learning and improving myself in [Ankara](https:/
 
 #### - What I'm learning:
 
-- Tailwind CSS
+- [Tailwind CSS](https://tailwindcss.com/)
 - JavaScript(Basic)
 
 #### - I will also learn these:
