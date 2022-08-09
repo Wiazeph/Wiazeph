@@ -22,13 +22,14 @@ I'm an open person to working, learning and improving myself in [Ankara](https:/
 
 #### - What I'm learning:
 
+- Tailwind CSS
 - JavaScript(Basic)
 
 #### - I will also learn these:
 
 - Fetch/Ajax
 - [Vue.js](https://vuejs.org/) + [Nuxt.js](https://nuxtjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) + [PostCSS](https://postcss.org/)
+- [PostCSS](https://postcss.org/)
 
 #### - Technologies I used to know:
 - [Python](https://www.python.org/) + [Django](https://www.djangoproject.com/)
