@@ -30,7 +30,7 @@
 
 <h3 align="center">What I know:</h3>
 
-<p align="center"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html" height="38" width="38"/></a>                                                  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" height="38" width="38"/></a>                                                  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" height="38" width="38"/></a>                                                  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="38" width="38"/></a>                                                  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" height="38" width="38"/></a></p>
+<p align="center"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html" height="38" width="38"/></a>                                                  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" height="38" width="38"/></a>                                                  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" height="38" width="38"/></a>                                                  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="38" width="38"/></a>                                                  <a href="https://tailwindcss.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="38" width="38"/></a>                                                  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" height="38" width="38"/></a></p>
 
 
 
@@ -40,7 +40,7 @@
 
 <h3 align="center">What I'm learning:</h3>
 
-<p align="center"><a href="https://tailwindcss.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="38" width="38"/></a>                                                  <a href="https://javascript.info/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="js" height="38" width="38"/></a></p>
+<p align="center"><a href="https://javascript.info/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="js" height="38" width="38"/></a></p>
 
 
 
