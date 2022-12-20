@@ -46,9 +46,9 @@
 
 <h3 align="center">I will also learn these:</h3>
 
-<p align="center">JQuery - <a href="https://postcss.org/" target="_blank" rel="noreferrer">PostCSS</a> - <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a></p>
-
 <p align="center"><a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" height="38" width="38"/></a>                                                  <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="38" width="38"/></a></p>
+
+<p align="center"><a href="https://postcss.org/" target="_blank" rel="noreferrer">PostCSS</a> - <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a></p>
 
 
 
@@ -57,6 +57,7 @@
 
 
 <h3 align="center">Technologies I used to know:</h3>
+<p align="center">(I used to learn but now I don't continue)</p>
 
 <p align="center"><a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="py" height="38" width="38"/></a>                                                  <a href="https://docs.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" height="38" width="38"/></a>                                                  <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="38" width="38"/></a></p>
 
