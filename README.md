@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Emre</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Emre;I'm+a+Front-End+Developer&center=true&size=28">
+  </a>
+</h1>
 
 
 
