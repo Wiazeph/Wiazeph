@@ -50,7 +50,7 @@
 
 <h3 align="center">I will also learn these:</h3>
 
-<p align="center"><a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" height="38" width="38"/></a>                                                  <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="38" width="38"/></a></p>
+<p align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="vue" height="38" width="38"/></a>                                                  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" height="38" width="38"/></a></p>
 
 <p align="center"><a href="https://postcss.org/" target="_blank" rel="noreferrer">PostCSS</a> - <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a></p>
 
