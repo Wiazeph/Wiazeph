@@ -71,7 +71,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json? color=informational&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femr3rden%2Freadme">
+<img src="https://komarev.com/ghpvc/?username=0emr3rden&style=for-the-badge" alt="profile-views" /> 
+
+<p></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=dark&title_color=#ffffff&text_color=#ffffff)](https://github.com/emr3rden)
 
