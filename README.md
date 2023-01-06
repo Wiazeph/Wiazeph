@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=0emr3rden&style=for-the-badge" alt="profile-views" /> 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=emr3rden.visitor-badge&left_text=Profile%20Views)
 
 <p></p>
   
