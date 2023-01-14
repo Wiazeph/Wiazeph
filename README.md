@@ -57,6 +57,8 @@
 
 <hr width="70%">
   
+<br>
+  
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=emr3rden.visitor-badge&left_text=Profile%20Views&left_color=gray&right_color=DarkOrchid)
   
