@@ -26,18 +26,11 @@
 
 <hr width="70%">
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=emr3rden.visitor-badge&left_text=Profile%20Views&left_color=gray&right_color=DarkOrchid)
-
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=midnight-purple)](https://github.com/emr3rden)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emr3rden&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/emr3rden)
 
-<p></p>
+<a href="https://github.com/emr3rden?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=emr3rden&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@emr3rden's github-readme-stats"/></a>
+<a href="https://github.com/emr3rden?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=emr3rden&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@emr3rden's github-readme-streak-stats"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emr3rden&theme=midnight-purple)](https://github.com/emr3rden)
-
-<p></p>
-
-[![Emre Erden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emr3rden&theme=midnight-purple&show_icons=true)](https://github.com/emr3rden)
-
-</div
+</div>
