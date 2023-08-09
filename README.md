@@ -1,7 +1,7 @@
 <samp>Hi there 👋</samp> <br>
 <samp> - I'm a Frontend Developer</samp> <br>
 <samp> - Currently working on React and JavaScript </samp> <br>
-<samp> - Skills I know and currently continue to learn: HTML, CSS, SCSS, Bootstrap, Tailwind CSS, JavaScript, Vue, React, Git</samp> <br><br>
+<samp> - Skills I know and currently continue to learn: HTML, CSS, SCSS, Bootstrap, Tailwind CSS, JavaScript, React, Vue, Git</samp> <br><br>
 
 <samp>I'm working to be an experienced developer in the Front-End world. In this profession, I'm open to learning and improving myself. I enjoy learning new things and constantly improving myself.</samp> <br><br>
 
